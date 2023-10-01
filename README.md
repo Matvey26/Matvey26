@@ -1,3 +1,1 @@
-### Hi there 👋
-
-Student of MAI.
+Student of MAI
